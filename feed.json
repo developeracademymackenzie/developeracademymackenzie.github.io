@@ -1,0 +1,29 @@
+{
+    "title": "Apple Developer Academy | Mackenzie",
+    "publisherName": "Mackenzie Presbyterian University",
+    "feedIdentifier": "io.github.developeracademymackenzie",
+    "contactURL": "mailto:developeracademy@mackenzie.br",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "WWDC 2018",
+            "overviewSubtitle": "Playgrounds submited to WWDC 2018 Scholarship",
+            "detailSubtitle": "Playgrounds submited to WWDC 2018 Scholarship",
+            "description": "Here you can find the Playgrounds developed by the students of the Apple Developer Academy | 2018. Siz of them were comtempled with the Scholarship Program.",
+            "contentIdentifier": "io.github.developeracademymackenzie.wwdc2018",
+            "contentVersion": "1.0",
+            "url": "https://developeracademymackenzie.github.io/wwdc2018/stories.playgroundbook.zip",
+            "publishedDate": "2018-12-25T12:00:00+00:00",
+            "lastUpdatedDate": "2018-12-25T12:00:00+00:00",
+            "thumbnailURL": "wwdc2018/thumbnail.png",
+            "bannerImageURL": "wwdc2018/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        }
+    ]
+}
